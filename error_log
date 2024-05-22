@@ -1,0 +1,1 @@
+[12-May-2024 20:54:32 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: جدول الحدث غير موجود., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
